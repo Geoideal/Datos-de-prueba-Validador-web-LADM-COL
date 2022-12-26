@@ -25,8 +25,8 @@ Algunos archivos XTF, GPKG y ZIP no pueden cargarse a la aplicación porque pued
 
 Por ejemplo, un ZIP que no contiene archivos en su interior o una GeoPackage genérica que no tiene la estructura de ningún modelo LADM-COL, serán rechazados en una primera instancia, que llamamos de **pre-validación**.
 
-A continuación disponemos para ti un conjunto de archivos que no superarán la etapa de pre-validación. 
+A continuación disponemos para ti un conjunto de archivos que no superarán la etapa de pre-validación:
 
-[Archivos XTF con problemas de formato](https://github.com/Geoideal/pre_validador_de_archivos/tree/main/data/xtf).
-[Archivos GeoPackage con problemas de formato](https://github.com/Geoideal/pre_validador_de_archivos/tree/main/data/gpkg).
-[Archivos ZIP con problemas de formato](https://github.com/Geoideal/pre_validador_de_archivos/tree/main/data/zip).
+ + [Archivos XTF con problemas de formato](https://github.com/Geoideal/pre_validador_de_archivos/tree/main/data/xtf).
+ + [Archivos GeoPackage con problemas de formato](https://github.com/Geoideal/pre_validador_de_archivos/tree/main/data/gpkg).
+ + [Archivos ZIP con problemas de formato](https://github.com/Geoideal/pre_validador_de_archivos/tree/main/data/zip).
