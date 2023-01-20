@@ -1,5 +1,5 @@
 # Datos de prueba para el 'Validador web LADM-COL'
-Conjunto de datos de prueba para subir al 'Validador web LADM-COL'.
+Conjunto de datos de prueba para subir al ['Validador web LADM-COL'](https://ladm.geoideal.co/).
 
 Estos datos de prueba han sido construidos con el fin de ilustrar de manera sencilla ciertos escenarios que pueden presentarse durante una sesión de validación de reglas de calidad.
 
@@ -21,7 +21,7 @@ Recuerda que la aplicación permite validar datos en formato **XTF** (archivo de
 
 #### Archivos que no pueden cargarse al Validador web LADM-COL
 
-Algunos archivos XTF, GPKG y ZIP no pueden cargarse a la aplicación porque pueden tener **problemas de formato**. Al intentar cargarlos, el Validador web LADM-COL los identificará e impedirá iniciar una validación de reglas de calidad sobre ellos.
+Algunos archivos XTF, GPKG y ZIP no pueden cargarse a la aplicación porque pueden tener **problemas de formato**. Al intentar cargarlos, el [Validador web LADM-COL](https://ladm.geoideal.co) los identificará e impedirá iniciar una validación de reglas de calidad sobre ellos.
 
 Por ejemplo, un ZIP que no contiene archivos en su interior o una GeoPackage genérica que no tiene la estructura de ningún modelo LADM-COL, serán rechazados en una primera instancia, que llamamos de **pre-validación**.
 
